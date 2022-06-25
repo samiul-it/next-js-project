@@ -8,6 +8,7 @@ const FirstPost = () => {
       <div>
         <Head>
           <title>Image</title>
+          <link rel="icon" href="/photo-photography-image-picture_108525.ico" />
         </Head>
         <h1> First Post</h1>
         <Image
